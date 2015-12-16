@@ -1,0 +1,39 @@
+{
+  "name": "gulp-browserify-bundle",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Brian Takita <brian.takita@gmail.com>",
+  "contributors": [],
+  "scripts": {
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btakita/gulp-browserify-bundle"
+  },
+  "bugs": {
+    "url": "https://github.com/btakita/gulp-browserify-bundle/issues"
+  },
+  "keywords": [
+    "gulp-browserify-bundle",
+    "gulp",
+    "browserify"
+  ],
+  "dependencies": {
+    "gulp": "*",
+    "browserify": "*",
+    "gulp-rename": "*",
+    "gulp-size": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "run-sequence": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  },
+  "devDependencies": {
+  },
+  "analyze": true,
+  "license": "Apache"
+}
