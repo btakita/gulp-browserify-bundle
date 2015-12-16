@@ -22,3 +22,11 @@ var coreBundle = browserifyBundle({
   uglifyParams: {}
 });
 ~~~
+
+## Your own gulp-browserify-bundle build
+
+Feel free to make your own npm package.
+
+I like the idea of appending a number at the end.
+
+`gulp-browserify-bundle-2`
